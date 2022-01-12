@@ -4,7 +4,7 @@
 
 - 📚 I’m currently learning everything 🤣
 - 👉 I’m looking for new Awesome opportunities
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
 ### Connect with me:
