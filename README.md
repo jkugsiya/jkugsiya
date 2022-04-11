@@ -31,11 +31,17 @@
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GCP" width="26px" src="https://avatars0.githubusercontent.com/u/2810941?s=200&v=4" />
 
+
 <br />
 <br />
 
-<img align="left" alt="Jayesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jkugsiya&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight" />
-<img align="left" alt="EJ's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkugsiya&layout=compact&theme=tokyonight" />
+
+[![Jkugsiya's github stats](https://github-readme-stats.vercel.app/api?username=jkugsiya&show_icons=true&count_private=true&hide=stars,issues&theme=tokyonight)](https://github.com/jkugsiya/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkugsiya&layout=compact&theme=tokyonight)](https://github.com/jkugsiya/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jkugsiya&theme=tokyonight)](https://git.io/streak-stats)
 
 <br />
 
