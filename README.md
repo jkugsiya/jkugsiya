@@ -1,4 +1,4 @@
-### Hi there, I'm Jayesh Kugsiya - [website] 👋
+### Hi there, I'm Jayesh Kugsiya👋
 
 ## I'm a Developer, Coder, Freelancer, and Gamer!
 
